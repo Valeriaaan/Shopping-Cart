@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="add_item">Add Item</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="done_button">Done</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="clear_list">Clear List</string>
+    <string name="add_item_btn">Add Item</string>
+    <string name="shopping_cart_txtview">Shopping Cart</string>
+</resources>
